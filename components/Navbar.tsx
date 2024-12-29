@@ -1,14 +1,14 @@
 import Link from 'next/link';
 import React from 'react';
 import Image from 'next/image';
-import { auth, signOut, signIn } from '@/auth'; // Ensure these are correctly implemented
-import { redirect } from 'next/dist/server/api-utils';
+import { auth, signOut, signIn } from '@/auth'; 
+
 
 const Navbar = async () => {
   let session;
 
   try {
-    session = await auth(); // Ensure auth() returns a valid session
+    session = await auth(); 
   } catch (error) {
     console.error('Error fetching session:', error);
   }
