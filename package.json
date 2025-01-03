@@ -19,9 +19,12 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.1",
+    "@radix-ui/react-toast": "^1.2.4",
     "@sanity/image-url": "^1.1.0",
     "@sanity/vision": "^3.68.3",
+    "@sentry/nextjs": "^8.47.0",
     "@tailwindcss/typography": "^0.5.15",
+    "@uiw/react-md-editor": "^4.0.5",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.469.0",
@@ -31,13 +34,16 @@
     "next-sanity": "^9.8.29-canary.0",
     "react": "19.0.0-rc-2d16326d-20240930",
     "react-dom": "19.0.0-rc-2d16326d-20240930",
+    "react-is": "^19.0.0",
     "sanity": "^3.68.3",
     "sanity-plugin-markdown": "^5.0.0",
     "server-only": "^0.0.1",
+    "slugify": "^1.6.6",
     "styled-components": "^6.1.13",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
-    "yc-directory-app": "file:"
+    "yc-directory-app": "file:",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
