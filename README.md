@@ -35,4 +35,4 @@
 
 ---
 
-This project is deployed on **Vercel** and can be accessed via: [yc-directory-app-one.vercel.app](https://yc-directory-app-one.vercel.app/)
+This project is deployed on **Vercel** and can be accessed via: [yc-directory-app-one.vercel.app]([https://yc-directory-app-one.vercel.app/](https://yc-directory-14z2x0m39-aneeqshaffy7gmailcoms-projects.vercel.app/))
