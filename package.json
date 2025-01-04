@@ -18,6 +18,7 @@
     "next": "$next"
   },
   "dependencies": {
+    "@radix-ui/react-avatar": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.4",
     "@sanity/image-url": "^1.1.0",
@@ -27,6 +28,7 @@
     "@uiw/react-md-editor": "^4.0.5",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "easymde": "^2.18.0",
     "lucide-react": "^0.469.0",
     "markdown-it": "^14.1.0",
     "next": "^15.1.1-canary.23",
