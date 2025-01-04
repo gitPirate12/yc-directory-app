@@ -1,11 +1,13 @@
 # ⚙️ Tech Stack  
 
-- ![React](https://img.shields.io/badge/React-18.2.0-%2361DAFB?logo=react)  
-- ![Next.js](https://img.shields.io/badge/Next.js-15-%23000000?logo=next.js)  
-- ![Sanity](https://img.shields.io/badge/Sanity-CMS-%23F03E2F?logo=sanity)  
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.2-%2338B2AC?logo=tailwindcss)  
-- ![ShadCN](https://img.shields.io/badge/ShadCN-UI-%238F6A50)  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-%233178C6?logo=typescript)  
+<div>
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-Sanity-black?style=for-the-badge&logoColor=white&logo=sanity&color=F03E2F" alt="Sanity CMS" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/-ShadCN-black?style=for-the-badge&logoColor=white&logo=design&color=4A4A4A" alt="ShadCN UI" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
+</div>
 
 ---
 
@@ -30,3 +32,7 @@
 👉 **Search**: Search functionality to load and view pitches efficiently.  
 
 👉 **Minimalistic Design**: Fresh and simple UI with only the essential pages for ease of use and a clean aesthetic.  
+
+---
+
+This project is deployed on **Vercel** and can be accessed via: [yc-directory-app-one.vercel.app](https://yc-directory-app-one.vercel.app/)
