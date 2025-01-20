@@ -1,4 +1,4 @@
-# ⚙️ Tech Stack  
+# ⚙️ **Tech Stack**  
 
 <div>
     <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React" />
@@ -11,7 +11,7 @@
 
 ---
 
-# 🔋 Features  
+# 🔋 **Features**  
 
 👉 **Live Content API**: Displays the latest startup ideas dynamically on the homepage using Sanity's Content API.  
 
@@ -36,4 +36,3 @@
 ---
 
 This project is deployed on **Vercel** and can be accessed via: [yc-directory-app-one.vercel.app](https://yc-directory-app-one.vercel.app/)
-
